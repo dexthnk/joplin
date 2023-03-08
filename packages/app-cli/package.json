@@ -15,7 +15,7 @@
     "watch": "tsc --watch --preserveWatchOutput --project tsconfig.json"
   },
   "bugs": {
-    "url": "https://github.com/laurent22/joplin/issues"
+    "url": "https://git-tensor-poc"
   },
   "repository": {
     "type": "git",
